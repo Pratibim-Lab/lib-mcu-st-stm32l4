@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L412TBYxP:STM32L412TBYxP",
+  "name": "STM32L412TBYxP",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L412TBYxP.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 128KB flash, 40KB RAM, 80 MHz, 1.71-3.6V, 28 GPIO, WLCSP36",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l412tb.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x2",
+  "footprint": "Package_CSP:ST_WLCSP-36_2.58x3.07mm_Layout6x6_P0.4mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L412TBYxP/",
+  "part_path": "parts/STM32L412TBYxP",
+  "symbol_file": "parts/STM32L412TBYxP/STM32L412TBYxP.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:11.277Z"
+}

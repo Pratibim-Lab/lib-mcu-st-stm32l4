@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L496R_E-G_Tx:STM32L496R_E-G_Tx",
+  "name": "STM32L496R_E-G_Tx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L496R_E-G_Tx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512-1024KB flash, 320KB RAM, 80 MHz, 1.71-3.6V, 52 GPIO, LQFP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l496re.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x6",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L496R_E-G_Tx/",
+  "part_path": "parts/STM32L496R_E-G_Tx",
+  "symbol_file": "parts/STM32L496R_E-G_Tx/STM32L496R_E-G_Tx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:12.082Z"
+}

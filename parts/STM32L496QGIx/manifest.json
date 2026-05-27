@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L496QGIx:STM32L496QGIx",
+  "name": "STM32L496QGIx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L496QGIx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 320KB RAM, 80 MHz, 1.71-3.6V, 110 GPIO, UFBGA132",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l496qg.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x6",
+  "footprint": "Package_BGA:UFBGA-132_7x7mm_Layout12x12_P0.5mm",
+  "extends": "STM32L496Q_E-G_Ix",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L496QGIx/",
+  "part_path": "parts/STM32L496QGIx",
+  "symbol_file": "parts/STM32L496QGIx/STM32L496QGIx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:12.073Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L471ZEJx:STM32L471ZEJx",
+  "name": "STM32L471ZEJx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L471ZEJx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 80 MHz, 1.71-3.6V, 114 GPIO, UFBGA144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l471ze.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x1",
+  "footprint": "Package_BGA:UFBGA-144_10x10mm_Layout12x12_P0.8mm",
+  "extends": "STM32L471Z_E-G_Jx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L471ZEJx/",
+  "part_path": "parts/STM32L471ZEJx",
+  "symbol_file": "parts/STM32L471ZEJx/STM32L471ZEJx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:11.716Z"
+}

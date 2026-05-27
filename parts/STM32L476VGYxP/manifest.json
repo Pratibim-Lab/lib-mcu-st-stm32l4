@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L476VGYxP:STM32L476VGYxP",
+  "name": "STM32L476VGYxP",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L476VGYxP.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 128KB RAM, 66 GPIO, WLCSP99",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l476vg.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x6",
+  "footprint": "Package_CSP:ST_WLCSP-99_4.42x3.77mm_Layout11x9_P0.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L476VGYxP/",
+  "part_path": "parts/STM32L476VGYxP",
+  "symbol_file": "parts/STM32L476VGYxP/STM32L476VGYxP.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:11.986Z"
+}

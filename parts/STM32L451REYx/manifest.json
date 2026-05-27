@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L451REYx:STM32L451REYx",
+  "name": "STM32L451REYx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L451REYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 160KB RAM, 80 MHz, 1.71-3.6V, 52 GPIO, WLCSP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l451re.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x1",
+  "footprint": "Package_CSP:ST_WLCSP-64_Die462",
+  "extends": "STM32L451R_C-E_Yx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L451REYx/",
+  "part_path": "parts/STM32L451REYx",
+  "symbol_file": "parts/STM32L451REYx/STM32L451REYx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:11.499Z"
+}

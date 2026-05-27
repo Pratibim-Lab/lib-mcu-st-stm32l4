@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L486JGYx:STM32L486JGYx",
+  "name": "STM32L486JGYx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L486JGYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 128KB RAM, 80 MHz, 1.71-3.6V, 57 GPIO, WLCSP72",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l486jg.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x6",
+  "footprint": "Package_CSP:ST_WLCSP-72_Die415",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L486JGYx/",
+  "part_path": "parts/STM32L486JGYx",
+  "symbol_file": "parts/STM32L486JGYx/STM32L486JGYx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:12.028Z"
+}

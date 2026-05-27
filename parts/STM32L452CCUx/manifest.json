@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L452CCUx:STM32L452CCUx",
+  "name": "STM32L452CCUx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L452CCUx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 160KB RAM, 80 MHz, 1.71-3.6V, 38 GPIO, UFQFPN48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l452cc.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x2",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "STM32L452C_C-E_Ux",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L452CCUx/",
+  "part_path": "parts/STM32L452CCUx",
+  "symbol_file": "parts/STM32L452CCUx/STM32L452CCUx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:11.514Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L486VGTx:STM32L486VGTx",
+  "name": "STM32L486VGTx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L486VGTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 128KB RAM, 80 MHz, 1.71-3.6V, 82 GPIO, LQFP100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l486vg.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x6",
+  "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L486VGTx/",
+  "part_path": "parts/STM32L486VGTx",
+  "symbol_file": "parts/STM32L486VGTx/STM32L486VGTx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:12.038Z"
+}

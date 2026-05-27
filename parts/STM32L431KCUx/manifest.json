@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L431KCUx:STM32L431KCUx",
+  "name": "STM32L431KCUx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L431KCUx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 256KB flash, 64KB RAM, 80 MHz, 1.71-3.6V, 26 GPIO, UFQFPN32",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l431kc.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4 STM32L4x1",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "STM32L431K_B-C_Ux",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L431KCUx/",
+  "part_path": "parts/STM32L431KCUx",
+  "symbol_file": "parts/STM32L431KCUx/STM32L431KCUx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:11.336Z"
+}

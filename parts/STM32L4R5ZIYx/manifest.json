@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L4R5ZIYx:STM32L4R5ZIYx",
+  "name": "STM32L4R5ZIYx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L4R5ZIYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 2048KB flash, 640KB RAM, 120 MHz, 1.71-3.6V, 110 GPIO, WLCSP144",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l4r5zi.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4+ STM32L4R5/S5",
+  "footprint": "Package_CSP:ST_WLCSP-144_Die470",
+  "extends": "STM32L4R5Z_G-I_Yx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L4R5ZIYx/",
+  "part_path": "parts/STM32L4R5ZIYx",
+  "symbol_file": "parts/STM32L4R5ZIYx/STM32L4R5ZIYx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:12.538Z"
+}

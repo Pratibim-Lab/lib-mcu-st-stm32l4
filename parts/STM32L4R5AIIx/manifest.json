@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L4R5AIIx:STM32L4R5AIIx",
+  "name": "STM32L4R5AIIx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L4R5AIIx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 2048KB flash, 640KB RAM, 120 MHz, 1.71-3.6V, 136 GPIO, UFBGA169",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l4r5ai.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4+ STM32L4R5/S5",
+  "footprint": "Package_BGA:UFBGA-169_7x7mm_Layout13x13_P0.5mm",
+  "extends": "STM32L4R5A_G-I_Ix",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L4R5AIIx/",
+  "part_path": "parts/STM32L4R5AIIx",
+  "symbol_file": "parts/STM32L4R5AIIx/STM32L4R5AIIx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:12.485Z"
+}

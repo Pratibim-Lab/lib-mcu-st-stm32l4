@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L4/STM32L4R5VGTx:STM32L4R5VGTx",
+  "name": "STM32L4R5VGTx",
+  "library": "MCU_ST_STM32L4",
+  "file": "MCU_ST_STM32L4.kicad_symdir/STM32L4R5VGTx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 640KB RAM, 120 MHz, 1.71-3.6V, 83 GPIO, LQFP100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l4r5vg.pdf",
+  "keywords": "Arm Cortex-M4 STM32L4+ STM32L4R5/S5",
+  "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+  "extends": "STM32L4R5V_G-I_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l4@master/parts/STM32L4R5VGTx/",
+  "part_path": "parts/STM32L4R5VGTx",
+  "symbol_file": "parts/STM32L4R5VGTx/STM32L4R5VGTx.kicad_sym",
+  "source_library": "MCU_ST_STM32L4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:12.507Z"
+}
